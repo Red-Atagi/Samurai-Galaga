@@ -1,0 +1,12 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+#NOTRIM#
+public class #SCRIPTNAME# : Ability
+{
+    // Called once every frame during the player's FixedUpdate() call
+    public override void CallAbility()
+    {
+         #NOTRIM#
+    }
+}

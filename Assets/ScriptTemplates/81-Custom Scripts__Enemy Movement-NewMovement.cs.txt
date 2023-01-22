@@ -1,0 +1,12 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+#NOTRIM#
+public class #SCRIPTNAME# : EnemyMove
+{
+    // Returns the enemie's velocity for the current frame
+    public override Vector2 DetermineVelocity()
+    {
+        return velocity;
+    }
+}

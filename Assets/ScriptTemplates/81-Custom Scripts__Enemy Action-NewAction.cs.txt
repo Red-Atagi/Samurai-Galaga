@@ -1,0 +1,12 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+#NOTRIM#
+public class #SCRIPTNAME# : EnemyAction
+{
+    // Called once every frame during the enemy's FixedUpdate() call
+    public override void CallAction()
+    {
+        #NOTRIM#
+    }
+}
