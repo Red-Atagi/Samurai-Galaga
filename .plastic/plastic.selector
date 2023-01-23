@@ -1,0 +1,4 @@
+repository "Samurai Galaga@Samurai_Galaga@cloud"
+  path "/"
+    br "/main"
+    co "/main"
